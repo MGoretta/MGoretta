@@ -8,7 +8,7 @@ Donde no sólo pueda seguir aprendiendo, sinó que también pueda aportar a la d
 
 ### ¿Qué más te puedo contar sobre mí?
 
-Puedes conocer más de mí a partir de mi [LinkedIn](https://www.linkedin.com), aunque también puedo ir adelantando que me gusta la música, el deporte y los animales. 😄
+Puedes conocer más de mí a partir de mi [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mauro-goretta/)), aunque también puedo ir adelantando que me gusta la música, el deporte y los animales. 😄
 
 Hablé mucho de mi formación técnica y profesional, pero quiero destacar que mi experiencia en grupos me llevó a darme cuenta que una de mis características principales es aportar buen clima grupal y energía positiva a los grupos de trabajo. Eso mismo es lo que busco en los espacios donde me desarrollo social y laboralmente 👍
 
