@@ -1,6 +1,6 @@
-# Hola! 👋 Soy Mauro Goretta! Paso a presentarme :)
+# Hola! Soy Mauro Goretta! 👋
 
-Me interesa explorar constantemente nuevas experiencias. Es por eso que una de mis características es mi constante inserción en espacios nuevos de aprendizaje. Tengo mi base en Ciencias de la Comunicación, pero luego me fuí expandiendo, siendo un autodidacta y aprendiendo a partir de cursos distintas herramientas de producción audiovisual, gráfica, coordinación y trabajo en equipo, y ahora, programación y desarrollo web 💻 📊     
+Inquieto, curioso, siempre aprendiendo. Tengo mi base en las Ciencias de la Comunicación (soy Licenciado egresado de la Universidad con título de grado), pero luego me fuí expandiendo, mediante cursos y prácticas hacia las áreas de producción audiovisual, gráfica, y ahora, programación y desarrollo web 💻 📊  
 
 ## Me interesan los proyectos colaborativos
 
