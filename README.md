@@ -2,9 +2,9 @@
 
 Inquieto, curioso, siempre aprendiendo. Tengo mi base en las Ciencias de la Comunicación (soy Licenciado egresado de la Universidad con título de grado), pero luego me fuí expandiendo, mediante cursos y prácticas hacia las áreas de producción audiovisual, gráfica, y ahora, programación y desarrollo web 💻 📊  
 
-## Me interesan los proyectos colaborativos
+En lo laboral, siempre integré equipos, y desde hace ya tiempo, los lidero o coordino. Me apasiona el diseño de proyectos, su armado, y por eso uno de mis fuertes es la gestión y producción de proyectos.
 
-Donde no sólo pueda seguir aprendiendo, sinó que también pueda aportar a la dinámica grupal, y contribuir con todo el bagaje que traigo a partir de mis experiencias en los diversos ámbitos donde trabajé y me formé 🌀
+En cuanto al desarrollo web, mis principales proyectos son un proyecto individual que realizé sobre conductores de Fórmula 1 para el Bootcamp de Henry, un proyecto colaborativo con seis compañeros de un e-commerce de venta de productos de electrónica, y en la actualidad me encuentro trabajando con una base de datos de Kaggle sobre misiones espaciales en un proyecto colaborativo con un colega data science. Las tecnologías que manejo son: Javascript, Express, Node, Postgres, Sequelize, Typescript, React, Redux.
 
 ### ¿Qué más te puedo contar sobre mí?
 
